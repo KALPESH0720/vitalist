@@ -37,7 +37,7 @@ powered by HuggingFace's free Inference API.
 - Java 17+
 - Maven 3.8+
 - MySQL 8 running on localhost:3306
-- HuggingFace account (free token)
+- setup ollama on your pc
 
 ---
 
