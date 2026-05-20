@@ -3,7 +3,7 @@
 A full-stack desktop hospital management system with Role-Based Access Control (RBAC),
 built with Spring Boot + MySQL backend and Java Swing frontend.
 Integrates two AI features: **CaseTwin** (case matching) and **UniRad3s** (X-ray analysis)
-powered by HuggingFace's free Inference API.
+
 
 ---
 
